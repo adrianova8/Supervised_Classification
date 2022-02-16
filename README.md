@@ -1,6 +1,6 @@
 # S11 T01: Supervised Classification
 
-**Target:*
+**Target:**
 * Classification trees
 * KNN - k-Nearest Neighbors
 * Logistic Regression
